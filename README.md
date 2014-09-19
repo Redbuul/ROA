@@ -1,4 +1,9 @@
-ROA
-===
+Aprendendo GITHUB
+=================
 
-Um Browser Game em desenvolvimento ;)
+Aprendendo GITHUB com Renato França
+
+Contato
+-------
+
+[Renato França](http://renato-franca.com) - Visite para mais informações
